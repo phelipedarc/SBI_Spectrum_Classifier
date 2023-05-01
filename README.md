@@ -18,6 +18,7 @@ pip install sbi
 
 ### Credits
 This project was developed by Phelipe Darc  and contributors from CBPF.
-email: phelipedarc@gmail.com
+
+- email: phelipedarc@gmail.com
 
 
