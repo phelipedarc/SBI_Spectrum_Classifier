@@ -1,4 +1,4 @@
-<img src="https://farm66.staticflickr.com/65535/49055715328_092031af74_o.png"  width="150" />
+<img src="https://www.gov.br/cbpf/pt-br/assuntos/noticias/titular-tem-artigo-em-periodico-de-prestigio/cbpf.png"  width="500" />
 
 # DESGW-SPECTRO Spectrum Classifiers
 This project is a collaboration to develop two spectrum classifiers using Simulation Based Inference (Deep Learning). The first classifier distinguishes between Supernovas and Kilonovas, while the second classifier classifies Supernova spectra as either Type I or Type II.
