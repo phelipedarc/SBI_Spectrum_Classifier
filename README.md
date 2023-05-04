@@ -12,6 +12,8 @@ To use this notebook, please ensure that you have the following libraries instal
 - Seaborn
 - SBI
 To install the SBI package (https://www.mackelab.org/sbi/): 
+
+
 '''
 pip install sbi
 '''
