@@ -14,10 +14,6 @@ To use this notebook, please ensure that you have the following libraries instal
 To install the SBI package (https://www.mackelab.org/sbi/): 
 
 
-'''
-pip install sbi
-'''
-
 ### Credits
 This project was developed by Phelipe Darc  and contributors from CBPF.
 
